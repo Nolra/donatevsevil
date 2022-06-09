@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/donatevsevil/static/css/main.3169f7b8.css",
-    "main.js": "/donatevsevil/static/js/main.7be110d5.js",
+    "main.js": "/donatevsevil/static/js/main.2072a669.js",
     "static/media/rfu.png": "/donatevsevil/static/media/rfu.a8bc88e36527d8248177.png",
     "static/media/ops.png": "/donatevsevil/static/media/ops.30128e0a87f1d725b40e.png",
     "static/media/com.png": "/donatevsevil/static/media/com.c301bd11b8cbc4d6127a.png",
@@ -145,10 +145,10 @@
     "static/media/arrow.svg": "/donatevsevil/static/media/arrow.3b1ca119c08a4ee5b06b.svg",
     "static/media/menu.svg": "/donatevsevil/static/media/menu.b3f4474e67b527255c48.svg",
     "main.3169f7b8.css.map": "/donatevsevil/static/css/main.3169f7b8.css.map",
-    "main.7be110d5.js.map": "/donatevsevil/static/js/main.7be110d5.js.map"
+    "main.2072a669.js.map": "/donatevsevil/static/js/main.2072a669.js.map"
   },
   "entrypoints": [
     "static/css/main.3169f7b8.css",
-    "static/js/main.7be110d5.js"
+    "static/js/main.2072a669.js"
   ]
 }
