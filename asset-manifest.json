@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/donatevsevil/static/css/main.3169f7b8.css",
-    "main.js": "/donatevsevil/static/js/main.94a47280.js",
+    "main.css": "/donatevsevil/static/css/main.150b7cdd.css",
+    "main.js": "/donatevsevil/static/js/main.9c178485.js",
     "static/media/rfu.png": "/donatevsevil/static/media/rfu.a8bc88e36527d8248177.png",
     "static/media/ops.png": "/donatevsevil/static/media/ops.30128e0a87f1d725b40e.png",
     "static/media/com.png": "/donatevsevil/static/media/com.c301bd11b8cbc4d6127a.png",
@@ -118,20 +118,33 @@
     "static/media/abcd.png": "/donatevsevil/static/media/abcd.3ed0c9a50eb5edde5581.png",
     "static/media/cgb.png": "/donatevsevil/static/media/cgb.d441117822193168d0cc.png",
     "static/media/gpo.png": "/donatevsevil/static/media/gpo.074dbb3533a908fcb386.png",
+    "static/media/kharkov.jpg": "/donatevsevil/static/media/kharkov.bf919f3aeb7e466a1987.jpg",
     "static/media/uhe.png": "/donatevsevil/static/media/uhe.bfed865950e6ffd8485b.png",
     "static/media/pwu.png": "/donatevsevil/static/media/pwu.601bf3083fd9af3a7b1c.png",
     "static/media/ffth.png": "/donatevsevil/static/media/ffth.1c3b98857051fec3d94b.png",
+    "static/media/greatKostroma.jpg": "/donatevsevil/static/media/greatKostroma.5e211cb0b51a901a4ab0.jpg",
     "static/media/dfu.png": "/donatevsevil/static/media/dfu.d141186b498162eaf92d.png",
+    "static/media/irpen2.jpg": "/donatevsevil/static/media/irpen2.5bc7e975892640fcdf73.jpg",
     "static/media/nap.png": "/donatevsevil/static/media/nap.babd967336c34b5b3e46.png",
+    "static/media/kharkiv2.jpg": "/donatevsevil/static/media/kharkiv2.a384d5f599051ef2e24d.jpg",
     "static/media/ingo.png": "/donatevsevil/static/media/ingo.278e93b08c1f2dd577b3.png",
+    "static/media/lions.jpg": "/donatevsevil/static/media/lions.b349ec9430c5bd80bf24.jpg",
+    "static/media/сhernihiv.jpg": "/donatevsevil/static/media/сhernihiv.9e37adb5203df355884a.jpg",
+    "static/media/irpen.jpg": "/donatevsevil/static/media/irpen.34c60770a9f5816f7850.jpg",
+    "static/media/zhitomir.jpg": "/donatevsevil/static/media/zhitomir.eee9b91e27b060a53421.jpg",
+    "static/media/israel.jpg": "/donatevsevil/static/media/israel.6808af7d420ccd6d1b44.jpg",
     "static/media/gothampro_bold.ttf": "/donatevsevil/static/media/gothampro_bold.764ba13de4409a990823.ttf",
     "static/media/gothampro.ttf": "/donatevsevil/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "static/media/kiev.jpg": "/donatevsevil/static/media/kiev.40a1bc6eeecfa7af5c7b.jpg",
+    "static/media/przemysl.jpg": "/donatevsevil/static/media/przemysl.14535cc6835862856568.jpg",
     "static/media/p60.png": "/donatevsevil/static/media/p60.f0e34fff9c89ed127ffd.png",
     "static/media/bfur.png": "/donatevsevil/static/media/bfur.c201d5c65ced06e91e36.png",
     "static/media/afbj.png": "/donatevsevil/static/media/afbj.148485da7640ee354224.png",
+    "static/media/medyka.jpg": "/donatevsevil/static/media/medyka.3be1344a4e385590a9ef.jpg",
     "static/media/logo.svg": "/donatevsevil/static/media/logo.d83682759d3da56821fb.svg",
     "static/media/twitter.svg": "/donatevsevil/static/media/twitter.492a5c227ee9b3d526b8.svg",
     "static/media/instagram.svg": "/donatevsevil/static/media/instagram.af48ac2f286f2c5161ce.svg",
+    "index.html": "/donatevsevil/index.html",
     "static/media/link.svg": "/donatevsevil/static/media/link.158c4e76527e81380037.svg",
     "static/media/copy.svg": "/donatevsevil/static/media/copy.881078bb20ba8d385b2b.svg",
     "static/media/site.svg": "/donatevsevil/static/media/site.d955fc5f9baedcb21d59.svg",
@@ -140,15 +153,14 @@
     "static/media/mail.svg": "/donatevsevil/static/media/mail.d42b40ae95d47bfa88ab.svg",
     "static/media/telegram.svg": "/donatevsevil/static/media/telegram.2fc56dcbc7d6671a1b1b.svg",
     "static/media/search.svg": "/donatevsevil/static/media/search.56335ab5e51f48b0835c.svg",
-    "index.html": "/donatevsevil/index.html",
     "static/media/white-arrow.svg": "/donatevsevil/static/media/white-arrow.1dbfa86c5a6660e33144.svg",
     "static/media/arrow.svg": "/donatevsevil/static/media/arrow.3b1ca119c08a4ee5b06b.svg",
     "static/media/menu.svg": "/donatevsevil/static/media/menu.b3f4474e67b527255c48.svg",
-    "main.3169f7b8.css.map": "/donatevsevil/static/css/main.3169f7b8.css.map",
-    "main.94a47280.js.map": "/donatevsevil/static/js/main.94a47280.js.map"
+    "main.150b7cdd.css.map": "/donatevsevil/static/css/main.150b7cdd.css.map",
+    "main.9c178485.js.map": "/donatevsevil/static/js/main.9c178485.js.map"
   },
   "entrypoints": [
-    "static/css/main.3169f7b8.css",
-    "static/js/main.94a47280.js"
+    "static/css/main.150b7cdd.css",
+    "static/js/main.9c178485.js"
   ]
 }
