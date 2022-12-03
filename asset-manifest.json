@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/donationsvsevil/static/css/main.6045a580.css",
-    "main.js": "/donationsvsevil/static/js/main.60d2d3b5.js",
+    "main.css": "/donationsvsevil/static/css/main.6241595d.css",
+    "main.js": "/donationsvsevil/static/js/main.5bbac364.js",
     "static/media/rfu.png": "/donationsvsevil/static/media/rfu.a8bc88e36527d8248177.png",
     "static/media/ops.png": "/donationsvsevil/static/media/ops.30128e0a87f1d725b40e.png",
     "static/media/com.png": "/donationsvsevil/static/media/com.c301bd11b8cbc4d6127a.png",
@@ -156,11 +156,11 @@
     "static/media/white-arrow.svg": "/donationsvsevil/static/media/white-arrow.1dbfa86c5a6660e33144.svg",
     "static/media/arrow.svg": "/donationsvsevil/static/media/arrow.3b1ca119c08a4ee5b06b.svg",
     "static/media/menu.svg": "/donationsvsevil/static/media/menu.b3f4474e67b527255c48.svg",
-    "main.6045a580.css.map": "/donationsvsevil/static/css/main.6045a580.css.map",
-    "main.60d2d3b5.js.map": "/donationsvsevil/static/js/main.60d2d3b5.js.map"
+    "main.6241595d.css.map": "/donationsvsevil/static/css/main.6241595d.css.map",
+    "main.5bbac364.js.map": "/donationsvsevil/static/js/main.5bbac364.js.map"
   },
   "entrypoints": [
-    "static/css/main.6045a580.css",
-    "static/js/main.60d2d3b5.js"
+    "static/css/main.6241595d.css",
+    "static/js/main.5bbac364.js"
   ]
 }
